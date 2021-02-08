@@ -1,0 +1,6 @@
+RN08 - O Cliente deve possuir um código único a fim de identifica-lo no sistema
+RN09 - Será informado o nome da rua, do bairro e do complemento do cliente
+RN10 - Um cliente pode ter nenhum ou vários telefones cadastrados
+RN11 - Caso um produto não esteja ativo a sua data de cadastro e descrição tornam-se opcionais
+RN12 - O cadastro de data de nascimento do cliente deve ser opcional
+RN13 - Um cliente pode não ter uma lista de desejos
