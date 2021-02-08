@@ -18,5 +18,5 @@
 <ol>
 <br>
 <h2>Amostra Modelo Físico</h2>
-![](/1.Modelo_Relacional/Modelo.png)
+<img src="./1.Modelo_Relacional/Modelo.png">
 
