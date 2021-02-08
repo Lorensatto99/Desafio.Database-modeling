@@ -1,6 +1,6 @@
 <h1>Desafio Projeto Wedo - Modelagem de Dados</h1>
 
-<p>Atividade que pode ser acompanhada pela situação proposta pelo PDF na raiz do projeto</p>
+<p>Atividade que pode ser acompanhada pela situação proposta pelo PDF na raiz do projeto.</p>
 <br>
 <p> necessário Ultilizar a ferramenta Gratuíta da <b>Oracle</b>: <u>SQL Developer Data Modeler<u>, para fazer a criação das Entidades e afins. O programa pode ser instalado pelos links a baixo:</p>
 <p><a href="https://www.oracle.com/tools/downloads/sql-data-modeler-downloads.html">Windows e MAC</a></p>
@@ -18,4 +18,5 @@
 <ol>
 <br>
 <h2>Amostra Modelo Físico</h2>
-[](/
+[](/1.Modelo_Relacional/Modelo.png)
+
